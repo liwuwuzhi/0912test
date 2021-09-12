@@ -1,4 +1,5 @@
 export default {
   name: 'testDemo',
-  auth: 'zhou'
+  auth: 'zhou',
+  mode: 'pro'
 }
